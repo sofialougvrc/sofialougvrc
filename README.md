@@ -1,6 +1,6 @@
 # Hi, I'm Sofia ⋆⭒˚.⋆🪐 
 
-Software developer interested in quant and ML.
+I like machine learning systems, low-latency infrastructure, and quant.
 
 ## Featured
 
@@ -13,7 +13,3 @@ Software developer interested in quant and ML.
 ## Stack
 
 `Python` `C++` `CUDA C++` `TypeScript` `WebAssembly` `PyTorch` `Hugging Face` `React` `FastAPI`
-
-## Contact
-
-[sofialou07@gmail.com](mailto:sofialou07@gmail.com) · [LinkedIn](https://linkedin.com/in/sofia-cardenas-garcia-63239a2b4)
