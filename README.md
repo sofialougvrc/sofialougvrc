@@ -1,6 +1,6 @@
 # Hi, I'm Sofia ⋆⭒˚.⋆🪐 
 
-I like machine learning systems, low-latency, and quant infrastructure.
+I like machine learning, low-latency, and quant infrastructure.
 
 ## Currently
 Studying math and ai in Rome.
