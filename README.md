@@ -3,7 +3,7 @@
 I like machine learning systems, low-latency, and quant infrastructure.
 
 ## Currently
-Studying Math and AI in Rome.
+Studying math and ai in Rome.
 
 ## Featured
 
